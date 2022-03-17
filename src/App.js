@@ -6,7 +6,7 @@ import Productdetail from './Components/Productdetail';
 
 function App() {
   return (
-    <div className="App">
+      <div className="App">
       <div className = "sideNav"><Sidenavbar /></div>
       <div className = "productDetail"><Productdetail /></div>
       
