@@ -1,0 +1,46 @@
+.sectionWrapper {
+    padding-top: 80px;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 250px;
+    font-size: 24px;
+    font-weight: bold;
+    color: rgb(39, 38, 38);
+}
+
+.cartButton {
+    color: white;
+    background-color: orangered;
+    padding: 10px 30px;
+    border-radius: 28px;
+}
+
+.qtyContainer {
+    display: flex;
+     
+}
+.quantity {
+    margin-right: 15px;
+}
+
+.minus, .plus {
+    color: orangered;
+    font-size: 30px;
+    
+    margin-top: -5px;
+    padding: 0px 4px;
+    margin-right: 10px;
+ 
+}
+
+input {
+    width: 35px;
+    height: 35px;
+    margin-top: 4px;
+    text-align: center;
+    margin-right: 10px;
+}
+
+.availbale span {
+    color: black;
+}

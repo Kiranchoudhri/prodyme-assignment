@@ -1,0 +1,55 @@
+.carouselContainer {
+    padding-top: 50px;
+    display: flex;
+   
+    position: absolute;
+}
+
+
+
+.imageContainer {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+    width: 100px;
+    height: 100px;
+    border-radius: 20px;
+    border-bottom: 10px;
+    background-color: rgb(148, 54, 54);
+    cursor: pointer;
+}
+
+img {
+    width: 100%;
+    height: 100px;
+    border-radius: 20px;
+}
+
+.imageSliderIcon {
+    width: 100px;
+    height: 40px;
+    background-color: rgb(145, 141, 141);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+
+.fullImage {
+    position: relative;
+    top: 0px;
+    left: 20px;
+    width: 450px;
+    height: 520px;
+    background-color: blueviolet;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.fullImage img {
+    width: 100%;
+    height: 100%;
+}
+

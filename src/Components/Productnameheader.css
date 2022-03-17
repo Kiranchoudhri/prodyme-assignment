@@ -1,0 +1,17 @@
+.headerContainer {
+    display: flex;
+}
+
+.categoryContainer {
+    display: flex;
+    margin-right: 60px;
+    
+}
+
+.navigation {
+    margin-right: 10px;
+}
+
+.icon {
+   padding-top: 2px;
+}

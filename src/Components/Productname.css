@@ -1,0 +1,68 @@
+.title {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 40px;
+
+}
+
+.wishlistIcon {
+    align-self: center;
+}
+
+.productName {
+  font-size: 40px;
+}
+
+.productDisc {
+    font-size: 20px;
+    /* margin-top: 10px; */
+}
+
+.ratingContainer {
+    padding-top: 40px;
+    display: flex;
+    justify-content: space-between;
+} 
+
+.ratingIconContainer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.ratingIconContainer div {
+    color: orangered;
+}
+
+.lastratingIcon {
+    color: grey;
+}
+
+.ratingPoints {
+    padding-left: 30px;
+    color: black;
+    font-size: 20px;
+}
+
+.ratingPoints span {
+   color: grey;
+}
+.build {
+    padding-right: 50px;
+}
+
+
+.build a {
+    color: orangered;
+    font-size: 20px;
+}
+
+.price {
+    font-size: 30px;
+    font-weight: bolder;
+    color: black;
+}
+
+.price span {
+    font-size: 20px;
+    color: black
+}

@@ -1,0 +1,26 @@
+
+.pageTitle {
+    font-size: 20px;
+    color: black;
+    margin-bottom: 40px;    
+}
+
+.tags {
+    font-size: 24px;
+}
+
+.tagsContainer {
+    display: flex;
+    margin: 15px 0px;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    
+}
+
+.kitchenTag, .shapeTag, .sustainableTag {
+    background-color: #fff;
+    padding: 10px 32px;
+    border-radius: 18px;
+    margin-bottom: 15px;
+}
